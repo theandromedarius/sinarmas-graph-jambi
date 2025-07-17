@@ -42,9 +42,6 @@ services:
       - MONGO_INITDB_ROOT_USERNAME=admin
       # Password for the mongo database
       - MONGO_INITDB_ROOT_PASSWORD=admin
-      - USER_EMAIL=fikrikamalhebat123@gmail.com
-      - PASSWORD_EMAIL=rgjljactypmhmzul
-      - RECEIVE_EMAIL=fikrikamalhebat@gmail.com
       - USER_FTP=admin
       - PASSWORD_FTP=admin
       - PORT_FTP=21
